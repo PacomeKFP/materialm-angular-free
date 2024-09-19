@@ -1,6 +1,6 @@
 @use "sass:meta";
 
-$columns: 48;
+$columns: 56;
 
 @mixin icon_size {
   @for $i from 1 through $columns {

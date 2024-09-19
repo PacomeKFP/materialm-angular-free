@@ -14,3 +14,15 @@ html .topbar {
 .object-cover {
   object-fit: cover;
 }
+
+.profile-btn-dd {
+  padding: 0 10px !important;
+
+  &.mat-mdc-fab .mat-mdc-button-persistent-ripple::before {
+    display: none;
+  }
+
+  &.mat-mdc-fab {
+    background-color: transparent;
+  }
+}

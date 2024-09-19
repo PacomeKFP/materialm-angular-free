@@ -2,7 +2,7 @@
 
 :root {
   --bs-font-sans-serif: "Plus Jakarta Sans", sans-serif;
-  --bs-primary: #5d87ff;
+  --bs-primary: #00a1ff;
   --bs-secondary: #6c757d;
   --bs-danger: #fa896b;
   --bs-body-font-size: 0.875rem;
@@ -19,7 +19,7 @@
   --bs-card-spacer-x: 30px;
   --bs-card-border-width: 0px;
   --bs-success-rgb: 19, 222, 185;
-  --bs-primary-rgb: 93, 135, 255;
+  --bs-primary-rgb: 0, 161, 255;
   --bs-light-rgb: 246, 249, 252;
   --bs-dark-rgb: 42, 53, 71;
 }
@@ -167,7 +167,7 @@
 }
 
 .theme-carousel .carousel-indicators {
-  background: #635bff;
+  background: #00a1ff;
   border-radius: 18px;
   padding: 0px 10px;
   opacity: 0.8;

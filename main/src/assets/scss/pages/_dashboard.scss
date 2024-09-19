@@ -54,31 +54,27 @@
 // theme select
 .theme-select {
   width: 125px;
-  height: 40px;
+  height: 37px;
 
   .mat-form-field-infix {
-    padding: 6px 0 1px !important;
+      padding: 6px 0 1px !important;
   }
 
   .mat-mdc-form-field-subscript-wrapper {
-    display: none;
+      display: none;
   }
 
   .mdc-text-field--outlined .mdc-notched-outline .mdc-notched-outline__leading {
-    border-top-left-radius: $border-radius;
-    border-bottom-left-radius: $border-radius;
-    border-color: $borderColor;
+      border-color: $borderColor;
   }
 
   .mdc-text-field--outlined .mdc-notched-outline .mdc-notched-outline__trailing {
-    border-top-right-radius: $border-radius;
-    border-bottom-right-radius: $border-radius;
-    border-color: $borderColor;
+      border-color: $borderColor;
   }
 
   .mat-mdc-form-field-flex {
-    height: 40px;
-    align-items: center;
+      height: 37px;
+      align-items: center;
   }
 }
 
